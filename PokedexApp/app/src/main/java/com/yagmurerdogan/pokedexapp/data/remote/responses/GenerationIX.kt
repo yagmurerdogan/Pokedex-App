@@ -1,6 +1,6 @@
 package com.yagmurerdogan.pokedexapp.data.remote.responses
 
 data class GenerationIX(
-    val red-blue: RedBlueX,
+    val redblue: RedBlueX,
     val yellow: YellowX
 )
